@@ -39,6 +39,7 @@
 
         <TextView
             android:id="@+id/txtPhone"
+            style="@style/TextViewDefault"
             app:layout_constraintTop_toBottomOf="@id/txtName"
             app:layout_constraintStart_toEndOf="@id/imgPhotograph"
             android:layout_marginLeft="16dp"
